@@ -1,0 +1,260 @@
+.header {
+    background-color: #dddbd9;
+    padding-bottom: 40px;
+}
+
+.navbar-brand,
+.nav-item .btn {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    font-weight: 50px;
+}
+
+.baner-text-container,
+.banner-img-containerl {
+    height: 80vh;
+}
+
+.banner-img-containerl {
+    background-image: url('../images/photo-1630567598693-999d1d740ec8.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-text {
+    height: 60%;
+    background-color: white;
+    padding: 3rem;
+}
+
+.banner-text h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.banner-text p {
+    font-weight: 30px;
+}
+
+.banner-text-img {
+    height: 40%;
+}
+
+.text-img {
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.banner-text-img-col-1 {
+    background-image: url("../images/crazy\ dance.jpg");
+}
+
+.banner-text-img-col-2 {
+    background-image: url("../images/big\ boy.jpg");
+}
+
+.banner-text-img-col-3 {
+    background-image: url("../images/man\ with\ bears.jpg");
+}
+
+.top-content,
+.bottom-content {
+    height: 400px;
+}
+
+.content-img {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 47%;
+}
+
+.top-content .content-img {
+    background-image: url("../images/crazy\ dance.jpg");
+}
+
+.bottom-content .content-img {
+    background-image: url("../images/gilrie.jpg");
+}
+
+.content-text h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.content-text {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+
+.top-content .content-text {
+    background-color: white;
+    color: black;
+}
+
+.bottom-content .content-text {
+    background-color: black;
+    color: white;
+}
+
+.text-plan-container {
+    height: 40vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.text-plan h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    font-weight: bolder;
+}
+
+
+/* section */
+
+.section-plan {
+    background-color: gray;
+    padding: 40px;
+}
+
+.design-text-img,
+.row {
+    height: 100%;
+}
+
+.design-img,
+.design-text {
+    height: 100vh;
+}
+
+.design-img {
+    background-image: url("../images/interior.jpg");
+}
+
+.design-text-img,
+.design-text-text {
+    height: 50%;
+}
+
+.design-text-img {
+    overflow: hidden;
+    padding: 0px;
+}
+
+.design-text-img img {
+    width: 100%;
+}
+
+.design-text-text {
+    background-color: white;
+    padding: 40px;
+}
+
+
+/* section-2 page */
+
+.section-box {
+    background-color: white;
+    padding: 40px;
+}
+
+.text-home,
+.text-interior {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.apartment-text {
+    margin-bottom: 40px;
+}
+
+.apartment-img {
+    height: 70vh;
+}
+
+.apartment-img {
+    overflow: hidden;
+    padding: 0px;
+}
+
+
+/* section-3 page */
+
+.section-3 {
+    background-color: #ccbfb1;
+    padding: 40px;
+    height: 70vh;
+}
+
+.cardd {
+    height: 60vh;
+    background-color: white;
+    margin-bottom: 30px;
+}
+
+.card-d {
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    font-weight: bolder;
+}
+
+.card-img {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+
+/* Section-4 page */
+
+.section-container {
+    padding: 40px;
+    margin-bottom: 40px;
+    background-color: #332e29;
+}
+
+.section-text,
+.section-img-img {
+    height: 600px;
+}
+
+.section-text {
+    border: 2px solid gray;
+    color: white;
+    padding: 5%;
+}
+
+.section-img-img {
+    overflow: hidden;
+}
+
+.form-control {
+    background-color: transparent;
+    border-radius: 1pt;
+    border-color: whitesmoke;
+}
+
+.button-class .btn {
+    background-color: transparent !important;
+    color: white;
+    border: 1pt solid white;
+}
+
+.contact {
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.footer-section {
+    background-color: #332e29;
+    color: white;
+    margin: 100px;
+}
